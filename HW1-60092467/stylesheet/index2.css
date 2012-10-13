@@ -1,0 +1,17 @@
+#wrapper{width: 980px; height: 780px; margin: 0px auto;}
+#head {height:80px; background:url("../images/sky.jpg") repeat-x; font-size:60px;text-align:center;}
+#right {width:200px; height:470px; margin:15px 0px 0px 0px; padding:30px 5px 0px 5px; 
+	float:right; text-align:center; background:url("../images/hel.jpg"); border-left:1px;font-size:20px;}
+#left {width:740px; height:470px; float:left;  margin:15px 0px 0px 0px; padding:30px 5px 25px 10px; background:#B0D0E9; }
+#rright{width:300px; height:450px; float:left;margin: 30px 0px 0px 0px;}
+#lleft{width:400px; height:450px; float:left; margin: 30px 0px 0px 40px;}
+#foot{height:20px; margin:0; padding:0; background:#64AFE9; clear:left; }
+.center{width:50%; height:50%; margin:10px auto;}
+#navi{width:150px; height:400px;}
+#navi ul{margin:0px; padding:0px;}
+#navi ul li a{width:100px; text-align: center; font: bold 15px; margin: 2px;}
+#navi ul li a.selected{background-color: blue;}
+#navi ul li a:hover{background-color: yellow;}
+a{color:#000; text-decoration:none;}
+a:hover{color:#ff0000; text-decoration:none;}
+a.direction{color:#888;}
